@@ -4,6 +4,11 @@
 </head>
 
 <body>
+<<<<<<< HEAD
+=======
+<p>hello</p>
+</body>
+>>>>>>> 8d7565f (<p>hello)
 
 <h1>three branch</h1>
 
